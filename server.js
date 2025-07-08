@@ -193,7 +193,7 @@ app.get('/', (req, res) => {
 </head>
 <body>
   <div class="container">
-    <h1>Welcome to AI Chat Bot Created By Shubhradeep</h1>
+    <h1>Welcome to AI Chat Bot Created By Abhishek</h1>
     <h2>Google Gemini Integration with Node.js [Gemini X Node.js]</h2>
     <h2>Using Gemini AI API (model: "gemini-1.5-flash")</h2>
     <p>You can use this service as an AI Content Generator or AI Chat Bot.</p>
